@@ -70,7 +70,7 @@
                         <label for="estado">Estado</label>
                         <select class="form-control" name="estado" id="estado">
                             <option value="1">Activo</option>
-                            <option value="2">Inactivo</option> 
+                            <option value="2">Desactivar</option> 
                         </select>
 
                     </div>
@@ -83,8 +83,6 @@
         </div>
     </div>
 </div>
-<!-- FIN Modal CREAR Domo-->
-
 
 
 
